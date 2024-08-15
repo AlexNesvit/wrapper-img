@@ -1,5 +1,5 @@
 # WRAPPER img
-# <div align="center">🟣 Hi, this is a project WRAPPER IMG [look here](https:) 🟣</div>
+# <div align="center">🟣 Hi, this is a project WRAPPER IMG [look here]([https:](https://alexnesvit.github.io/wrapper-img/)) 🟣</div>
 
 ----
 
@@ -20,4 +20,4 @@
 
 ----
 
-## <div align="center">Website [Personal Card](https://)</div>
+## <div align="center">Website [WRAPPER IMG]([https://](https://alexnesvit.github.io/wrapper-img/))</div>
